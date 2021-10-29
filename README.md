@@ -6,3 +6,4 @@ Time spent: about 8 hours spent in total
 
 ###(1) Unauthenticated Genericons Cross-Site Scripting (XSS)
 - [ ] Summary: For this Vulnerability by using javascript code, we can trick the user into clicking  specific things either in the comment section or on a post. When this happens, if a script contains code that is malicious, then it can do things that the user wasn't aware of / did not want to do. This was tested in WordPress 4.1-4.2.1, and was fixed in 4.2.2.
+![XSS Vuln](https://user-images.githubusercontent.com/73257917/139507040-95762849-7aa0-4225-97a0-94f67e72eaff.gif)
